@@ -9,7 +9,9 @@ I'm constantly learning new tools and techniques to improve my craft and stay up
 - Advanced React patterns
 - TypeScript best practices
 - Modern CSS animations
-# ![Laptop](https://img.shields.io/badge/-Laptop-333333?style=for-the-badge&logo=laptop&logoColor=white) techstack
+- still setting up github/linked in profile 😜
+
+# 💻 Tech Stack -
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
