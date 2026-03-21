@@ -1,15 +1,7 @@
 # About me:
-### Hello im zezva, zee for short
+# Heya im zee 
 
-Hi! I'm a passionate Front-End Developer who loves turning ideas into interactive, responsive, and user-friendly web experiences. I enjoy building sleek interfaces with HTML, CSS, JavaScript, and modern frameworks like React and TypeScript.
-
-I'm constantly learning new tools and techniques to improve my craft and stay up-to-date with the latest trends in web development.
-
-# 🌱 Currently Learning
-- Advanced React patterns
-- TypeScript best practices
-- Modern CSS animations
-- still setting up github/linked in profile 😜
+im fullstack developer with 2 years of experience in coding still alot to improve tho
 
 # 💻 Tech Stack -
 
