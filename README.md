@@ -1,7 +1,7 @@
 # About me:
 # Heya im zee 
 
-im fullstack developer with 2 years of experience in coding still alot to improve tho
+im fullstack developer with 5 years of experience in coding still alot to improve tho
 
 # 💻 Tech Stack -
 
